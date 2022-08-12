@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @
+- :+1: MEU EMAIL  DE CONTATO    E  KAUAN.EMANUELVIEIRADA.SILVA@ESCOLA.PR.GOV.BR
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+MARROMBOMBOM157/MARROMBOMBOM157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+# SOBRE MIM 
+## EDITA  MEU  PERFIL
