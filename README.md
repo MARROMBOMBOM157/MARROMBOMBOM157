@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @
+- 👋 OI,MEU NOME E KAUAN 
 - :+1: MEU EMAIL  DE CONTATO    E  KAUAN.EMANUELVIEIRADA.SILVA@ESCOLA.PR.GOV.BR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 ESTOU ENTERESADO A APRENDER MAIS  
+- 🌱 ESTOU APRENDENDO O PROGAMA RESENTEMENTE 
+-
 
 <!---
 MARROMBOMBOM157/MARROMBOMBOM157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
